@@ -1,4 +1,4 @@
-# The dynamic interplay between loneliness and health behaviors from adolescence to midlife: a population-based prospective cohort study 
+# The dynamic interplay between loneliness and health behaviors from adolescence to midlife: a Norwegian population-based cohort study 
 
 This repository contains the complete analytical code encompassing:
 1. data pre-processing and descriptives
