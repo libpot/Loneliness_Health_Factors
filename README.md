@@ -2,5 +2,5 @@
 
 This repository contains the complete analytical code encompassing:
 1. data pre-processing and descriptives
-2. main analyses (structural nested mean modelling)
+2. main analyses (structural mean modelling)
 3. sensitivity analyses
